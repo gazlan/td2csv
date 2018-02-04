@@ -1,0 +1,6 @@
+-*-   td2csv 1.0  *   Copyright (c) Gazlan, 2015   -*-
+
+TECDOC_CD_3_2015 tables to .CSV converter
+
+Usage: td2csv.com TableName
+complains_n_suggestions direct to gazlan@yandex.ru
